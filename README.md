@@ -10,4 +10,4 @@ Programming exercise for determining if the string given is a palindrome or not 
 
 ## Answer
 
-Python [source code](https://github.com/hafiz-kamilin/exercise_determinePalindrome/blob/main/q2_palindrome.py) (ver 3.7.10).
+Python [source code](https://github.com/hafiz-kamilin/exercise_determinePalindrome/blob/main/source/q2_palindrome.py) (ver 3.7.10).
